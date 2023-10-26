@@ -28,7 +28,14 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 ## Analysis View
 
 <p align="center">
-    <img src=
+    <img src="https://github.com/vatssarthak/PowerBI-Hospitality-analysis/blob/main/Analysis%20View.png"
+</p>
+
+## Data Model
+
+<p align="center">
+    <img src="https://github.com/vatssarthak/PowerBI-Hospitality-analysis/blob/main/Data%20model.png"
+</p>
 
 ## Learned new things from this project
 - Learnt to build new visuals
