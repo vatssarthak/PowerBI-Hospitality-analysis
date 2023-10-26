@@ -20,5 +20,17 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 
   ## Project Objective:
 
-  **1.** Create a _[Revenue Hospitality report](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)
-  
+  ** ** Created a _[Revenue Hospitality report](https://github.com/vatssarthak/PowerBI-Hospitality-analysis/blob/main/Hospitality%20Report.pdf)
+- **Purpose of Hospitality analytics:** The purpose of hospitality analysis in this project is to understand and study the specific needs and preferences of guests, so you can provide them with a great experience and ultimately increase hotels revenue and customer loyality..
+
+- **Importance of analyzing data:** Identify guest preference patterns and track key performance indicators (KPIs).
+
+## Learned new things from this project
+- Learnt to build new visuals
+- Learnt , how to use tooltips in current visual  
+- Learnt patterns in booking trends
+## Technical & Soft Skills:
+- [x]	Proficiency in ETL methodology (Extract, Transform, Load).
+- [x]	Skills to generate a date table using Power Query.
+- [x]	Utilizing DAX to create measures.
+- [x]	Designing user-centric reports and develop a systematic approach to build a report plan.
