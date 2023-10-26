@@ -25,6 +25,11 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 
 - **Importance of analyzing data:** Identify guest preference patterns and track key performance indicators (KPIs).
 
+## Analysis View
+
+<p align="center">
+    <img src=
+
 ## Learned new things from this project
 - Learnt to build new visuals
 - Learnt , how to use tooltips in current visual  
